@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Roboto";
+  src: url(./assets/Roboto-Regular.ttf);
+}
+
+body {
+  background-image: url(./assets/background.png);
+}
+
+#root {
+  color: red;
+  font-size: 4rem;
+  text-align: center;
+  font-family: "Roboto";
+}
+
+#root img {
+  width: 200px;
+}
